@@ -65,7 +65,7 @@ public_users.get('/isbn/:isbn', function (req, res) {
 //
 //    Object.keys(books).forEach(i => {
 //        if(books[i].author.toLowerCase() == author.toLowerCase()){
-//            book.push(books[i)
+//            book.push(books[i])
 //        }
 //    });
 //    res.send(book);
